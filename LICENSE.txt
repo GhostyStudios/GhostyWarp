@@ -1,6 +1,6 @@
->> GhostyPlugins License
+>> GhostyStudios License
 
-Copyright (c) 2026 GhostyPlugins
+Copyright (c) 2026 GhostyStudios
 
 All rights reserved.
 
@@ -23,7 +23,7 @@ By downloading, installing, or using this plugin (“Software”), you agree to 
 
 >> 3. Redistribution
 
-* Redistribution is strictly forbidden unless you have **explicit written permission** from GhostyPlugins.
+* Redistribution is strictly forbidden unless you have **explicit written permission** from GhostyStudios.
 * You may share links to the **official release** (e.g., GitHub, Modrinth), but not upload or host copies yourself.
 
 >> 4. Credits
@@ -46,4 +46,5 @@ By downloading, installing, or using this plugin (“Software”), you agree to 
 >> Summary (for quick reference):
 ❌ You cannot sell, redistribute, or add new files.
 ❌ You cannot claim authorship.
-⚠️ GhostyPlugins is not liable for any damages.
+⚠️ GhostyStudios is not liable for any damages.
+
